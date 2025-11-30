@@ -34,10 +34,22 @@ Please see the sample `dev` files for two domains in the [data](data/) folder.
 
 ## Evaluation
 
-The total score consists of two equal parts: the correct answers to multiple-choice questions and the correct references (the document and the page in the document). The exact metric is TBD.
+The score consists of two equal parts: the correct answer to a multiple-choice question and the correct reference (the document and the page in the document).
+
+The final score is computed as:
+
+<img src="img/metric.png" alt="Metric" width="65%" height="65%"/>
+
+where:
+
+<img src="img/a_d.png" alt="Answers and documents" width="65%" height="65%"/>
+
+and the page proximity score is
+
+<img src="img/p.png" alt="Page proximity" width="65%" height="65%"/>
 
 Please see the sample questions for the `dev` files in the [data](data/) folder:
-* Your **input data** are in columns `Question_ID`, `Question`, and `A-F`, which represent possible answers to the question.
+* Your **input data** are columns `Question_ID`, `Question`, and `A-F`, which represent possible answers to the question.
 * Your solution should **predict** the values in `Correct_Answer`, `Doc_ID`, and `Page_Num`.
 * We provide `Domain` and `n_pages` (number of pages in the correct document) for `dev` to get you started. These columns will not be present in the test data.
 
