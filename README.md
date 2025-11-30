@@ -5,6 +5,8 @@ The Fifth Ukrainian NLP Conference ([UNLP 2026](https://unlp.org.ua/)) organizes
 **[Registration Form](https://forms.gle/XSgyBBEB7T5Gn9gQ6)**  
 **Please register by February 21, 2026.**
 
+The Kaggle link will be sent to the registered participants on **December 20, 2025**.
+
 Join the discussions in Discord via https://discord.gg/DYNnWaZD4a.
 
 ## Task Description
@@ -32,11 +34,14 @@ Please see the sample `dev` files for two domains in the [data](data/) folder.
 
 ## Evaluation
 
-The total score consists of two equal parts: the correct answers to multiple-choice questions and the correct references. The exact metric is TBD.
+The total score consists of two equal parts: the correct answers to multiple-choice questions and the correct references (the document and the page in the document). The exact metric is TBD.
 
-Please see the sample questions for the `dev` files in the [data](data/) folder.
+Please see the sample questions for the `dev` files in the [data](data/) folder:
+* Your **input data** are in columns `Question_ID`, `Question`, and `A-F`, which represent possible answers to the question.
+* Your solution should **predict** the values in `Correct_Answer`, `Doc_ID`, and `Page_Num`.
+* We provide `Domain` and `n_pages` (number of pages in the correct document) for `dev` to get you started. These columns will not be present in the test data.
 
-Consider generating similar questions for self-assessment while the Kaggle link is unavailable.
+Consider generating more questions on the dev set for self-assessment while we are working on the Kaggle setup.
 
 ## Publication
 
