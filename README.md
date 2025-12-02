@@ -76,7 +76,7 @@ Submitting a paper is not mandatory for participating in the Shared Task.
 
 ## Contacts
 
-Email: [kvrware@gmail.com](mailto:kvrware@gmail.com), [volodymyr.sydorskyi@gmail.com](mailto:volodymyr.sydorskyi@gmail.com), [mariana.scorp@gmail.com](mailto:mariana.scorp@gmail.com), [romanyshyn.n@ucu.edu.ua](mailto:romanyshyn.n@ucu.edu.ua)
+Email: [kvrware@gmail.com](mailto:kvrware@gmail.com), [volodymyr.sydorskyi@gmail.com](mailto:volodymyr.sydorskyi@gmail.com), [mariana.scorp@gmail.com](mailto:mariana.scorp@gmail.com), [rm.natalie12@gmail.com](mailto:rm.natalie12@gmail.com)
 
 ## References
 
