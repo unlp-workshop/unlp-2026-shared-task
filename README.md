@@ -5,11 +5,16 @@ The Fifth Ukrainian NLP Conference ([UNLP 2026](https://unlp.org.ua/)) organizes
 **[Registration Form](https://forms.gle/XSgyBBEB7T5Gn9gQ6)**  
 **Please register by February 21, 2026.**
 
-The Kaggle link will be sent to the registered participants on **December 20, 2025**.
+The Kaggle link will be sent to the registered participants on **January 15, 2026**.
 
 Join the discussions in Discord via https://discord.gg/DYNnWaZD4a.
 
 ## Updates
+
+**2025-12-20**:
+
+* Add more questions for the dev set: 40 => 461 questions.
+* Postpone the Kaggle release till January, 2026.
 
 **2025-12-17**:
 
@@ -70,8 +75,9 @@ Submitting a paper is not mandatory for participating in the Shared Task.
 ## Important Dates
 
 - **December 1, 2025** — Shared task announcement
-- **December 20, 2025** — Second call for participation; the Kaggle competition link is sent to the registered participants
-- **January 10, 2026** — Third call for participation
+- **December 20, 2025** — Second call for participation
+- **January 14, 2026** — Third call for participation
+- **January 15, 2026** — (tentatively) The Kaggle competition link is sent to the registered participants
 - **February 21, 2026** — Registration deadline
 - **February 22 (11:58 PM GMT +02:00), 2026** — Final submission of system responses
 - **February 25, 2026** — Results of the Shared Task are announced
