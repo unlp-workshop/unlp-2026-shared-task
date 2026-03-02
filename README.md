@@ -77,7 +77,7 @@ Submitting a paper is not mandatory for participating in the Shared Task.
 - December 1, 2025 — Shared task announcement
 - December 20, 2025 — Second call for participation
 - January 10, 2026 — Third call for participation
-- March 2, 2026 — the Kaggle competition link is sent to the registered participants
+- March 3, 2026 — the Kaggle competition link is sent to the registered participants
 - March 29, 2026 — Registration deadline
 - March 30 (11:58 PM GMT +02:00), 2026 — Final submission of system responses
 - April 2, 2026 — Results of the Shared Task are announced
